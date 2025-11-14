@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Tenho 18 anos e atualmente estou no **4º período de Ciência da Computação** na **UTFPR** 💻
+I am 18 years old and currently in the **4th term of Computer Science** at **UTFPR** 💻
 
-Sou motivado pelo aprendizado contínuo e estou sempre aberto a explorar novos conhecimentos, tecnologias e desafios. 🚀 
+I am driven by continuous learning and am always open to exploring new knowledge, technologies, and challenges. 🚀
 
-Fora do ambiente acadêmico e profissional, gosto de manter uma rotina ativa 💪  
+Outside of the academic and professional environment, I like to maintain an active routine 💪
