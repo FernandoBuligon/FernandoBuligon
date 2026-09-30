@@ -2,6 +2,7 @@
 
 Sou estudante de **Ciência da Computação** na **UTFPR**, atualmente no **6º período** 💻
 
+Tenho interesse especial em Machine Learning e Visão Computacional, áreas nas quais busco aprofundar meus conhecimentos por meio de estudos e projetos práticos 🤖👁️
 Sou movido por aprendizado contínuo e estou sempre aberto a explorar novos conhecimentos, tecnologias e desafios 🚀
 
 Fora do ambiente acadêmico e profissional, gosto de manter uma rotina ativa 💪
